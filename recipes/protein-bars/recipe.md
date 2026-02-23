@@ -80,4 +80,4 @@ Total batch: ~5645 kcal | 285g protein | 360g carbs | 362g fat | 89g fibre
 
 ## Photos
 
-![Reference](images/protein-bars-reference.jpg)
+![Protein bars](images/protein-bars.jpeg)
