@@ -6,7 +6,7 @@
 |---|---|---|
 | Biscuiti simpli vegani | 920g | Zdrobiti in texturi mixte: firimituri, bucati mici si medii |
 | Zahar | 300g | Poti merge pana la 310g daca vrei mai dulce |
-| Lapte vegetal | 430ml | |
+| Lapte vegetal | 400ml | 430ml a fost prea lipicios |
 | Unt vegetal / margarina 80% grasime | 285g | |
 | Cacao | 44g | |
 | Rahat / stafide / merisoare | 160g | Optional |
@@ -20,7 +20,7 @@
 ## Method
 
 1. Zdrobeste biscuitii in bucati mixte (firimituri + bucati mici + bucati medii).
-2. Incalzeste 430ml lapte vegetal cu 300g zahar, 44g cacao si sare pana se dizolva.
+2. Incalzeste 400ml lapte vegetal cu 300g zahar, 44g cacao si sare pana se dizolva.
 3. Adauga 285g unt vegetal si amesteca pana se topeste complet.
 4. Toarna peste biscuiti si amesteca cu rahat/stafide.
 5. Ruleaza strans in folie alimentara.
@@ -44,11 +44,11 @@
 
 ## Nutrition (estimated)
 
-Total batch: ~2140g | ~8074 kcal
+Total batch: ~2110g | ~8060 kcal
 
 | Per | kcal | Protein | Carbs | Fat |
 |---|---|---|---|---|
-| **100g** | 377 | 4.3g | 53.3g | 17.4g |
+| **100g** | 382 | 4.4g | 53.8g | 17.6g |
 
 <details>
 <summary>Nutrition sources</summary>
